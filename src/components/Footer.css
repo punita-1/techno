@@ -1,0 +1,330 @@
+.background2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 536px;
+}
+.copyright-technova3 {
+  position: absolute;
+  top: 434px;
+  left: calc(50% - 201.45px);
+  letter-spacing: 0.05em;
+  text-align: center;
+  display: inline-block;
+  width: 328.6px;
+  height: 28px;
+}
+.e-cell2 {
+  margin-bottom: 0;
+}
+.e-cell-sunshine-dcrust-odc-gds2 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.e-cell-sunshine-dcrust-container2 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  display: inline-block;
+  width: 155.9px;
+}
+.societal-events2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 78.5px);
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+  font-weight: 800;
+  font-family: var(--font-manrope);
+  background: linear-gradient(89.97deg, #ae67fa, #f49867 97.4%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  display: inline-block;
+  width: 164.3px;
+}
+.e-cell-sunshine-dcrust-odc-gds-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 171.6px;
+  height: 221px;
+}
+.cse-electrical-ece-container2 {
+  position: absolute;
+  top: 71px;
+  left: 2.1px;
+  display: inline-block;
+  width: 141.3px;
+}
+.departmental-events2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 111.45px);
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+  font-weight: 800;
+  font-family: var(--font-manrope);
+  background: linear-gradient(89.97deg, #ae67fa, #f49867 97.4%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  display: inline-block;
+  width: 222.9px;
+}
+.cse-electrical-ece-mechanical-container {
+  position: absolute;
+  top: 0;
+  left: 276.3px;
+  width: 222.9px;
+  height: 251px;
+}
+.hobby-expo-project-container2 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  display: inline-block;
+  width: 210.3px;
+}
+.centralized-events4 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 93.65px);
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+  font-weight: 800;
+  font-family: var(--font-manrope);
+  background: linear-gradient(89.97deg, #ae67fa, #f49867 97.4%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  display: inline-block;
+  width: 198.8px;
+}
+.group-parent4,
+.hobby-expo-project-expo-poster-container {
+  position: absolute;
+  top: 0;
+  left: 592.3px;
+  width: 210.3px;
+  height: 161px;
+}
+.group-parent4 {
+  top: 152px;
+  left: 0;
+  width: 802.7px;
+  height: 251px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-markazi-text);
+}
+.website-team2 {
+  margin: 0;
+}
+.website-team-designer-container2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 369.4px;
+}
+.linkedin-icon10,
+.linkedin-icon11,
+.linkedin-icon9 {
+  position: absolute;
+  top: 0;
+  left: 297.2px;
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  width: 40.8px;
+  height: 25px;
+  object-fit: cover;
+}
+.linkedin-icon10,
+.linkedin-icon11 {
+  top: 37px;
+  left: 371.5px;
+}
+.linkedin-icon11 {
+  top: 65px;
+}
+.credits2 {
+  position: absolute;
+  top: 319px;
+  left: 907.3px;
+  width: 412.3px;
+  height: 90px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-100);
+}
+.title4 {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 130%;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.btn2 {
+  margin: 0 !important;
+  position: absolute;
+  top: 5.2px;
+  left: 709.5px;
+  border-radius: 15.54px;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 2.6px 5.18px rgba(138, 92, 0, 0.32) inset;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15.536917686462402px 25.894861221313477px;
+  z-index: 0;
+}
+.placeholder2 {
+  width: 666.8px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.input9 {
+  flex: 1;
+  border-radius: 20.72px;
+  border: 1.3px solid var(--color-gray-400);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.831661224365234px 25.894861221313477px;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-xl-7);
+  color: var(--color-gray-100);
+  font-family: var(--font-inria-serif);
+}
+.row2,
+.title5 {
+  position: absolute;
+  margin: 0 !important;
+}
+.row2 {
+  width: 893.4px;
+  top: 74px;
+  left: calc(50% - 447.45px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25.89px;
+  z-index: 0;
+}
+.title5 {
+  width: 521px;
+  top: 0;
+  left: calc(50% - 261.45px);
+  font-size: var(--font-size-23xl-2);
+  letter-spacing: -0.01em;
+  line-height: 110%;
+  font-family: var(--font-inria-serif);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.row-container {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 504.95px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.635950088500977px;
+  gap: 12.64px;
+  font-size: var(--font-size-base-5);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.contact-us3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 138.15px);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+  font-weight: 800;
+  background: linear-gradient(89.97deg, #ae67fa, #f49867 97.4%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 119.3px;
+}
+.facebook-icon3,
+.instagram-icon3,
+.linkedin-icon12,
+.twitterx-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 69.1px;
+  height: 66px;
+  object-fit: cover;
+}
+.facebook-icon3,
+.linkedin-icon12,
+.twitterx-icon3 {
+  left: 69.1px;
+}
+.facebook-icon3,
+.twitterx-icon3 {
+  left: 207.2px;
+  cursor: pointer;
+}
+.facebook-icon3 {
+  left: 138.1px;
+}
+.instagram-parent1 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  width: 276.3px;
+  height: 66px;
+}
+.contact-us-container {
+  position: absolute;
+  top: 152px;
+  left: calc(50% + 247.45px);
+  width: 276.3px;
+  height: 132px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-manrope);
+}
+.copyright-technova-2024-container {
+  position: absolute;
+  top: 37px;
+  left: calc(50% - 644.7px);
+  width: 1319.7px;
+  height: 462px;
+}
+.background-container,
+.footer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 536px;
+}
+.footer1 {
+  top: 2476px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

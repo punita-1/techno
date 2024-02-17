@@ -1,0 +1,198 @@
+.pencil-robot-icon1 {
+  position: absolute;
+  top: 329px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 1697px;
+  object-fit: cover;
+  opacity: 0.14;
+}
+.co-cordinator,
+.coordinator {
+  position: absolute;
+  top: 1454px;
+  left: calc(50% - 590px);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+}
+.co-cordinator {
+  top: 1592px;
+}
+.event,
+.rules {
+  position: absolute;
+  top: 294px;
+  left: calc(50% - 600px);
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  font-family: var(--font-inter);
+  background: linear-gradient(90.76deg, #c58ef2, #cf7db4 46.5%, #ec9277);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 244px;
+  height: 99px;
+}
+.rules {
+  top: 781px;
+  left: calc(50% - 626px);
+}
+.nav-elements-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #000, transparent);
+  width: 1435px;
+  height: 240px;
+}
+.contact1,
+.gallery1,
+.home1 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 67.9px;
+  left: 288px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 50px;
+  height: 30.1px;
+}
+.contact1,
+.gallery1 {
+  top: 68px;
+  left: 416px;
+  width: 59px;
+}
+.contact1 {
+  left: 553px;
+  width: 70px;
+}
+.group-item,
+.nav-elements1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.nav-elements1 {
+  margin: 0;
+  width: 1435px;
+  height: 240px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}
+.group-container:hover,
+.nav-elements1:hover {
+  cursor: pointer;
+}
+.group-item {
+  border-radius: var(--br-xl);
+  width: 154.1px;
+  height: 51.2px;
+}
+.sign-up1 {
+  top: 14.1px;
+  left: calc(50% - 32.05px);
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 63.9px;
+  height: 22.1px;
+}
+.sign-in1,
+.sign-up1,
+.vector-group {
+  text-decoration: none;
+  position: absolute;
+  cursor: pointer;
+}
+.vector-group {
+  top: 0;
+  left: 76px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 154.1px;
+  height: 51.2px;
+  color: inherit;
+}
+.sign-in1 {
+  top: 11.1px;
+  left: 0;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 57px;
+  height: 30.1px;
+}
+.group-container {
+  position: absolute;
+  top: 55.6px;
+  left: 929px;
+  width: 230.1px;
+  height: 51.2px;
+}
+.dcrust-logo-1-icon1 {
+  position: absolute;
+  top: 52px;
+  left: 130px;
+  width: 83px;
+  height: 80px;
+  object-fit: cover;
+}
+.register-now-button-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 189.1px;
+  height: 59.4px;
+}
+.visit-gallery2 {
+  position: absolute;
+  top: 15px;
+  left: 72px;
+  line-height: 30px;
+}
+.register-now-button2 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 1925px;
+  left: 1054px;
+  width: 189.1px;
+  height: 59.4px;
+  color: inherit;
+}
+.nav1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1435px;
+  height: 1984.4px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-manrope);
+}
+.registernow-phase1-rules {
+  position: absolute;
+  top: -12px;
+  left: 25px;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 2594px;
+  overflow: hidden;
+}
+.dark-mode-event-rules {
+  width: 100%;
+  position: relative;
+  height: 2594px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}

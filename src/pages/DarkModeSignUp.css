@@ -1,0 +1,266 @@
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: -0.78%;
+  right: -4.11%;
+  bottom: 0.78%;
+  left: 4.11%;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+}
+.sign-up-inner,
+.sign-up3 {
+  position: absolute;
+  top: 10px;
+  left: 528px;
+  width: 950px;
+  height: 1024px;
+}
+.sign-up3 {
+  top: 190px;
+  left: 79px;
+  font-weight: 600;
+  font-family: var(--font-roboto-slab);
+  background: linear-gradient(92.8deg, #c58ff4, #cd7cb8 47.5%, #ed9375);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  display: inline-block;
+  width: 409px;
+  height: 173px;
+}
+.log-in {
+  text-decoration: underline;
+  color: #81a4a7;
+}
+.already-have-an-container {
+  text-decoration: none;
+  position: absolute;
+  height: 3.13%;
+  width: 21.88%;
+  top: 75.2%;
+  left: 58.13%;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  cursor: pointer;
+  color: inherit;
+}
+.create-account {
+  position: absolute;
+  top: 14.84%;
+  left: 61.25%;
+  font-size: var(--font-size-11xl);
+  background: linear-gradient(90.98deg, #b169f2, #d381aa 48.5%, #ee9473);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.signup-with-google-child {
+  text-decoration: none;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.google-g-logo-2-icon {
+  position: absolute;
+  height: 77.64%;
+  width: 15.71%;
+  top: 11.59%;
+  right: 77.89%;
+  bottom: 10.77%;
+  left: 6.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sign-up-with {
+  position: absolute;
+  height: 37.8%;
+  width: 60%;
+  top: 31.91%;
+  left: 34.4%;
+  display: inline-block;
+}
+.signup-with-google {
+  position: absolute;
+  height: 4.8%;
+  width: 19.1%;
+  top: 21.97%;
+  right: 21.32%;
+  bottom: 73.22%;
+  left: 59.58%;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+}
+.or- {
+  position: absolute;
+  height: 2.34%;
+  width: 3.33%;
+  top: 30.27%;
+  left: 67.36%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: #969393;
+  display: inline-block;
+}
+.group-inner {
+  position: absolute;
+  height: 3%;
+  width: 100.17%;
+  top: 98.5%;
+  right: -0.09%;
+  bottom: -1.5%;
+  left: -0.09%;
+  background-color: var(--color-darkgray-100);
+  border-top: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+}
+.full-name {
+  position: absolute;
+  height: 84.98%;
+  width: 16.38%;
+  top: 0;
+  left: 1.55%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-space-grotesk);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: inline-block;
+}
+.line-parent {
+  position: absolute;
+  height: 19.66%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 80.34%;
+  left: 0;
+}
+.email-address {
+  position: absolute;
+  height: 84.98%;
+  width: 23.67%;
+  top: 0;
+  left: 1.55%;
+  font-size: var(--font-size-base);
+  font-family: var(--font-space-grotesk);
+  color: var(--color-darkgray-100);
+  text-align: left;
+  display: inline-block;
+}
+.form1,
+.line-container,
+.line-group {
+  position: absolute;
+  height: 19.66%;
+  width: 100%;
+  top: 38.49%;
+  right: 0;
+  bottom: 41.85%;
+  left: 0;
+}
+.form1,
+.line-container {
+  top: 80.34%;
+  bottom: 0;
+}
+.form1 {
+  margin: 0;
+  height: 16.54%;
+  width: 40.83%;
+  top: 40.33%;
+  right: 10.56%;
+  bottom: 43.13%;
+  left: 48.61%;
+}
+.create-account-rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.create-account1 {
+  position: absolute;
+  height: 68.89%;
+  width: 39.83%;
+  top: 15.56%;
+  left: 30.09%;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-family: var(--font-space-grotesk);
+  color: var(--color-black);
+  text-align: left;
+}
+.create-account-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.96%;
+  width: 40.83%;
+  top: 67.53%;
+  right: 10.56%;
+  bottom: 28.52%;
+  left: 48.61%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.sign-up2 {
+  position: absolute;
+  top: 824px;
+  left: 1353px;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.c251888f38c78d18b5548c75e24f2-icon {
+  position: absolute;
+  top: 1145px;
+  left: calc(50% - 644px);
+  width: 563px;
+  height: 703px;
+  object-fit: cover;
+  opacity: 0.14;
+}
+.sign-up-parent {
+  position: absolute;
+  top: -825px;
+  left: -1356px;
+  width: 4000px;
+  height: 4000px;
+}
+.signup-dark-mode {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.dark-mode-sign-up {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-space-grotesk);
+}
